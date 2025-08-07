@@ -31,6 +31,7 @@ DAX/M Queries	Data transformation
 Source: Kaggle – Google Play Store Apps Dataset
 
 Attributes Used: App Name, Category, Rating, Installs, Price, Type, Content Rating, Last Updated
+![Google App Store](https://github.com/user-attachments/assets/d3bfbd22-416c-44e8-ad34-049f70e9ed17)
 
 📈 Visualizations Included
 Bar Charts
@@ -60,8 +61,6 @@ Open the .pbix file in Power BI Desktop
 Refresh data or connect to new sources if needed
 
 Interact with slicers and filters for dynamic insights
-
-📷 Preview
 
 📚 References
 Dataset: Kaggle - Google Play Store Apps
